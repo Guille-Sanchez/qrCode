@@ -6,6 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![My_QR-Code](./qr-code-screenshot.png)
 
+### Links
+
+- Live Site URL: [Qr-code](https://helpful-faloodeh-b84310.netlify.app/)
+
 # Built with
 
 - Semantic HTML5 markup
